@@ -18,17 +18,17 @@
 
 ## 🛠️ Tech Stack
 
--> Python
-->Java
--> C
--> Flutter
--> Dart
--> MySQL
--> Git
--> GitHub
--> VS Code
--> TensorFlow
--> Scikit-Learn
+- Python
+-Java
+- C
+- Flutter
+- Dart
+- MySQL
+- Git
+- GitHub
+- VS Code
+- TensorFlow
+- Scikit-Learn
 
 
 
