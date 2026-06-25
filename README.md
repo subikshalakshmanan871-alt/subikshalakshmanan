@@ -52,6 +52,7 @@ Features:
 
 
 
+
 ## 💻 Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subikshalakshmanan871-alt&layout=compact&theme=tokyonight)
@@ -68,7 +69,7 @@ Features:
 
 
 
-## 🌐 Connect With Me
+## 🌐Reach Me
 
 LinkedIn: https://www.linkedin.com/in/subiksha-lakshmanan-b27052316?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
