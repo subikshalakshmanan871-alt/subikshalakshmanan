@@ -46,3 +46,30 @@ Features:
 
 
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=subikshalakshmanan871-alt&show_icons=true&theme=tokyonight)
+
+
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subikshalakshmanan871-alt&layout=compact&theme=tokyonight)
+
+
+
+## 🎯 Current Goals
+
+- Master Flutter Development
+- Build AI & ML Projects
+- Improve Problem Solving Skills
+- Contribute to Open Source
+- Secure Internship Opportunities
+
+
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/subiksha-lakshmanan-b27052316?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Email: subikshalakshmanan871@gmail.com
