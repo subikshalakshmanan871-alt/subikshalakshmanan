@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 - Python
--Java
+- Java
 - C
 - Flutter
 - Dart
