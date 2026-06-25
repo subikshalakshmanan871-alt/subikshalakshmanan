@@ -13,3 +13,36 @@
 🎯 Goal: Build impactful technology, and secure opportunities in leading tech companies
 
 ⚡ Turning ideas into solutions.
+
+
+
+## 🛠️ Tech Stack
+
+-> Python
+->Java
+-> C
+-> Flutter
+-> Dart
+-> MySQL
+-> Git
+-> GitHub
+-> VS Code
+-> TensorFlow
+-> Scikit-Learn
+
+
+
+## 🚀 Featured Project
+
+### 📱 Mimas India
+
+Permit Management Platform for Mineral Industries
+
+Features:
+- Offline Functionality
+- Permit Enrollment
+- PDF Generation
+- Administrative Dashboard
+
+
+
