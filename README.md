@@ -12,4 +12,4 @@
 
 🎯 Goal: Build impactful technology, and secure opportunities in leading tech companies
 
-⚡ Turning ideas into solutions, one project at a time.
+⚡ Turning ideas into solutions.
